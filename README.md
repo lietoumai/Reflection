@@ -21,7 +21,7 @@
 思维相关
 
 |[系统之美](https://github.com/lietoumai/Reflection/issues/128)| [程序员思维训练](https://github.com/lietoumai/Reflection/issues/71)|
-| ------ | | ------ |
+| ------ | ------ |
 
 阅后无感
 |[编码]| 
