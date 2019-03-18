@@ -4,6 +4,16 @@
 
 等有时间搬到gitbook去
 
+求职相关
+| [金领简历](https://github.com/lietoumai/To-be-a-Pythoneer/issues/157)|
+| ------ |
+生涯相关
+
+软性相关
+
+
+
+
  |[极客与团队](https://github.com/lietoumai/To-be-a-Pythoneer/issues/146)| [金领简历](https://github.com/lietoumai/To-be-a-Pythoneer/issues/157)| [远大前程](https://github.com/lietoumai/Reflection/issues/1)|  [程序员思维训练](https://github.com/lietoumai/Reflection/issues/71)| [编码]| [远见-职业生涯规划](https://github.com/lietoumai/Reflection/issues/91)|[怎样销售你自己](https://github.com/lietoumai/Reflection/issues/102)|[提问的艺术](https://github.com/lietoumai/Reflection/issues/115)|[系统之美](https://github.com/lietoumai/Reflection/issues/128)|[习惯的力量](https://github.com/lietoumai/Reflection/issues/144)|[优势谈判](https://github.com/lietoumai/Reflection/issues/151)|[专注力](https://github.com/lietoumai/Reflection/issues/163)|[无压力社交](https://github.com/lietoumai/Reflection/issues/163)|
  | ------ | ------ | ------|------|------|------|------|------|------|------|------|------|------|
 
