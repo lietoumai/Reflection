@@ -8,8 +8,10 @@
 | [金领简历](https://github.com/lietoumai/To-be-a-Pythoneer/issues/157)|
 
 生涯相关
+
  |[极客与团队](https://github.com/lietoumai/To-be-a-Pythoneer/issues/146)|[远大前程](https://github.com/lietoumai/Reflection/issues/1)|
  | ------ | ------ | 
+ 
 软性相关
 
 
