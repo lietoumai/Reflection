@@ -9,7 +9,7 @@
 
 ### 生涯相关
 
-|[远大前程](https://github.com/lietoumai/Reflection/issues/1)|[远见-职业生涯规划](https://github.com/lietoumai/Reflection/issues/91)|[黑客与画家](https://github.com/lietoumai/Reflection/issues/181)|[人月神话](https://github.com/lietoumai/Reflection/issues/181)|
+|[远大前程](https://github.com/lietoumai/Reflection/issues/1)|[远见-职业生涯规划](https://github.com/lietoumai/Reflection/issues/91)|[黑客与画家](https://github.com/lietoumai/Reflection/issues/181)|[人月神话](https://github.com/lietoumai/Reflection/issues/183)|
 | ------ | ------ |------ |------ |
  
 ### 软技能相关
