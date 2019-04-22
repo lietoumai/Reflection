@@ -1,6 +1,6 @@
 # 读后感
 
-这里会记录一些我觉得值得一读的书的读后感
+## 这里会记录一些我觉得值得一读的书的读后感
 
 ### 求职相关
 
@@ -23,7 +23,7 @@
 | ------ | ------ |
 
 ### 咨询相关
-|[值得信赖的顾问](https://github.com/lietoumai/Reflection/issues/194)|[咨询的奥秘](https://github.com/lietoumai/Reflection/issues/194)|
+|[值得信赖的顾问](https://github.com/lietoumai/Reflection/issues/194)|[咨询的奥秘](https://github.com/lietoumai/Reflection/issues/215)|
 | ------ |------ |
 
 ### 阅后无感
