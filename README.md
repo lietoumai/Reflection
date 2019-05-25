@@ -23,8 +23,8 @@
 | ------ | ------ |
 
 ### 咨询相关
-|[值得信赖的顾问](https://github.com/lietoumai/Reflection/issues/194)|[咨询的奥秘](https://github.com/lietoumai/Reflection/issues/215)|[完美咨询](https://github.com/lietoumai/Reflection/issues/220)|
-| ------ |------ |------ |
+|[值得信赖的顾问](https://github.com/lietoumai/Reflection/issues/194)|[咨询的奥秘](https://github.com/lietoumai/Reflection/issues/215)|[完美咨询](https://github.com/lietoumai/Reflection/issues/220)|[金字塔原理](https://github.com/lietoumai/Reflection/issues/220)|
+| ------ |------ |------ |------ |
 
 ### 阅后无感
 编码
