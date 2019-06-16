@@ -19,8 +19,8 @@
 
 ### 思维相关
 
-|[系统之美](https://github.com/lietoumai/Reflection/issues/128)| [程序员思维训练](https://github.com/lietoumai/Reflection/issues/71)|
-| ------ | ------ |
+|[系统之美](https://github.com/lietoumai/Reflection/issues/128)| [程序员思维训练](https://github.com/lietoumai/Reflection/issues/71)|[聪明人是如何思考的](https://github.com/lietoumai/Reflection/issues/71)|
+| ------ | ------ |------ |
 
 ### 咨询相关
 |[值得信赖的顾问](https://github.com/lietoumai/Reflection/issues/194)|[咨询的奥秘](https://github.com/lietoumai/Reflection/issues/215)|[完美咨询](https://github.com/lietoumai/Reflection/issues/220)|[金字塔原理](https://github.com/lietoumai/Reflection/issues/246)|
