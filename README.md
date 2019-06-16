@@ -19,7 +19,7 @@
 
 ### 思维相关
 
-|[系统之美](https://github.com/lietoumai/Reflection/issues/128)| [程序员思维训练](https://github.com/lietoumai/Reflection/issues/71)|[聪明人是如何思考的](https://github.com/lietoumai/Reflection/issues/71)|
+|[系统之美](https://github.com/lietoumai/Reflection/issues/128)| [程序员思维训练](https://github.com/lietoumai/Reflection/issues/71)|[聪明人是如何思考的](https://github.com/lietoumai/Reflection/issues/257)|
 | ------ | ------ |------ |
 
 ### 咨询相关
