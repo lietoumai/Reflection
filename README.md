@@ -31,7 +31,7 @@
 | ------ |
 
 ### 经济
-|[美国大萧条](https://github.com/lietoumai/Reflection/issues/249)|
+|[美国大萧条](https://github.com/lietoumai/Reflection/issues/264)|
 | ------ |
 
 ### 阅后无感
