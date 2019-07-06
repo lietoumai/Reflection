@@ -1,6 +1,4 @@
-# 读后感
-
-## 这里会记录一些我觉得值得一读的书的读后感
+# 读后笔记
 
 ### 求职
 
@@ -31,8 +29,8 @@
 | ------ |
 
 ### 经济
-|[美国大萧条](https://github.com/lietoumai/Reflection/issues/264)|
-| ------ |
+|[美国大萧条](https://github.com/lietoumai/Reflection/issues/264)|[人的行为](https://github.com/lietoumai/Reflection/issues/264)|
+| ------ |------ |
 
 ### 阅后无感
 编码
