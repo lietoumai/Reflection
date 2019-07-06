@@ -29,7 +29,7 @@
 | ------ |
 
 ### 经济
-|[美国大萧条](https://github.com/lietoumai/Reflection/issues/264)|[人的行为](https://github.com/lietoumai/Reflection/issues/264)|
+|[美国大萧条](https://github.com/lietoumai/Reflection/issues/264)|[人的行为](https://github.com/lietoumai/Reflection/issues/271)|
 | ------ |------ |
 
 ### 阅后无感
