@@ -12,8 +12,8 @@
  
 ### 软技能
 
-|[极客与团队](https://github.com/lietoumai/To-be-a-Pythoneer/issues/146)|[习惯的力量](https://github.com/lietoumai/Reflection/issues/144)|[优势谈判](https://github.com/lietoumai/Reflection/issues/151)|[专注力](https://github.com/lietoumai/Reflection/issues/163)|[无压力社交](https://github.com/lietoumai/Reflection/issues/174)|[程序开发心理学](https://github.com/lietoumai/Reflection/issues/206)|[落差](https://github.com/lietoumai/Reflection/issues/231)|[慢决策](https://github.com/lietoumai/Reflection/issues/231)|[刻意学习](https://github.com/lietoumai/Reflection/issues/253)|
-| ------ | ------ | ------ | ------ | ------ | ------ |------ |------ |------ |
+|[极客与团队](https://github.com/lietoumai/To-be-a-Pythoneer/issues/146)|[习惯的力量](https://github.com/lietoumai/Reflection/issues/144)|[优势谈判](https://github.com/lietoumai/Reflection/issues/151)|[专注力](https://github.com/lietoumai/Reflection/issues/163)|[无压力社交](https://github.com/lietoumai/Reflection/issues/174)|[程序开发心理学](https://github.com/lietoumai/Reflection/issues/206)|[落差](https://github.com/lietoumai/Reflection/issues/231)|[慢决策](https://github.com/lietoumai/Reflection/issues/231)|[刻意学习](https://github.com/lietoumai/Reflection/issues/253)|[The power of thinking without thinking](https://github.com/lietoumai/Reflection)|
+| ------ | ------ | ------ | ------ | ------ | ------ |------ |------ |------ |------ |
 
 ### 思维
 
