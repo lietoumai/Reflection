@@ -25,7 +25,7 @@
 | ------ |------ |------ |------ |
 
 ### 心理&健康
-|[运动改造大脑](https://github.com/lietoumai/Reflection/issues/249)|[另一种选择](https://github.com/lietoumai/Reflection/issues/249)|[向前一步](https://github.com/lietoumai/Reflection/issues/249)|
+|[运动改造大脑](https://github.com/lietoumai/Reflection/issues/249)|[另一种选择](https://github.com/lietoumai/Reflection/issues/305)|[向前一步](https://github.com/lietoumai/Reflection/issues/310)|
 | ------ |------ |------ |
 
 ### 经济
