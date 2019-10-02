@@ -24,9 +24,9 @@
 |[值得信赖的顾问](https://github.com/lietoumai/Reflection/issues/194)|[咨询的奥秘](https://github.com/lietoumai/Reflection/issues/215)|[完美咨询](https://github.com/lietoumai/Reflection/issues/220)|[金字塔原理](https://github.com/lietoumai/Reflection/issues/246)|
 | ------ |------ |------ |------ |
 
-### 健康
-|[运动改造大脑](https://github.com/lietoumai/Reflection/issues/249)|
-| ------ |
+### 心理&健康
+|[运动改造大脑](https://github.com/lietoumai/Reflection/issues/249)|[另一种选择](https://github.com/lietoumai/Reflection/issues/249)|[向前一步](https://github.com/lietoumai/Reflection/issues/249)|
+| ------ |------ |------ |
 
 ### 经济
 |[美国大萧条](https://github.com/lietoumai/Reflection/issues/264)|[人的行为](https://github.com/lietoumai/Reflection/issues/271)|
