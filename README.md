@@ -32,6 +32,10 @@
 |[美国大萧条](https://github.com/lietoumai/Reflection/issues/264)|[人的行为](https://github.com/lietoumai/Reflection/issues/271)|
 | ------ |------ |
 
+### 自传
+|[谁说大象不能跳舞](https://github.com/lietoumai/Reflection/issues/303)|
+| ------ |
+
 ### 兴趣
 |[手把手教你玩脱口秀](https://github.com/lietoumai/Reflection/issues/303)|
 | ------ |
