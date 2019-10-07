@@ -37,7 +37,7 @@
 | ------ |
 
 ### 兴趣
-|[手把手教你玩脱口秀](https://github.com/lietoumai/Reflection/issues/303)|
+|[手把手教你玩脱口秀](https://github.com/lietoumai/Reflection/issues/314)|
 | ------ |
 
 ### 阅后无感
