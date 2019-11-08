@@ -21,7 +21,7 @@
 | ------ | ------ |------ |
 
 ### 咨询
-|[值得信赖的顾问](https://github.com/lietoumai/Reflection/issues/194)|[咨询的奥秘](https://github.com/lietoumai/Reflection/issues/215)|[完美咨询](https://github.com/lietoumai/Reflection/issues/220)|[金字塔原理](https://github.com/lietoumai/Reflection/issues/246)|[事实](https://github.com/lietoumai/Reflection/issues/332)|[不确定世界的理性选择](https://github.com/lietoumai/Reflection/issues/332)|
+|[值得信赖的顾问](https://github.com/lietoumai/Reflection/issues/194)|[咨询的奥秘](https://github.com/lietoumai/Reflection/issues/215)|[完美咨询](https://github.com/lietoumai/Reflection/issues/220)|[金字塔原理](https://github.com/lietoumai/Reflection/issues/246)|[事实](https://github.com/lietoumai/Reflection/issues/332)|[不确定世界的理性选择](https://github.com/lietoumai/Reflection/issues/341)|
 | ------ |------ |------ |------ |------ |------ |
 
 ### 心理&健康
