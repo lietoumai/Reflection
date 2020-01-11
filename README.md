@@ -41,7 +41,7 @@
 | ------ |
 
 ### 心灵
-|[禅者的初心](https://github.com/lietoumai/Reflection/issues/314)|
+|[禅者的初心](https://github.com/lietoumai/Reflection/issues/413)|
 | ------ |
 
 ### 阅后无感
