@@ -40,5 +40,9 @@
 |[手把手教你玩脱口秀](https://github.com/lietoumai/Reflection/issues/314)|
 | ------ |
 
+### 心灵
+|[禅者的初心](https://github.com/lietoumai/Reflection/issues/314)|
+| ------ |
+
 ### 阅后无感
 编码
