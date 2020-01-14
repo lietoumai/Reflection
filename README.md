@@ -41,8 +41,8 @@
 | ------ |
 
 ### 心灵
-|[禅者的初心](https://github.com/lietoumai/Reflection/issues/413)|
-| ------ |
+|[禅者的初心](https://github.com/lietoumai/Reflection/issues/413)|[The Surrender Experiment](https://github.com/lietoumai/Reflection/issues/413)|
+| ------ |------ |
 
 ### 阅后无感
 编码
