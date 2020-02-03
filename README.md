@@ -17,7 +17,7 @@
 
 ### 思维
 
-|[系统之美](https://github.com/lietoumai/Reflection/issues/128)| [程序员思维训练](https://github.com/lietoumai/Reflection/issues/71)|[聪明人是如何思考的](https://github.com/lietoumai/Reflection/issues/257)|[批判性思维](https://github.com/lietoumai/Reflection/issues/257)|[权衡](https://github.com/lietoumai/Reflection/issues/374)|[改变：问题形成和解决的原则](https://github.com/lietoumai/Reflection/issues/379)|[批判性思维和创造性思维](https://github.com/lietoumai/Reflection/issues/379)|
+|[系统之美](https://github.com/lietoumai/Reflection/issues/128)| [程序员思维训练](https://github.com/lietoumai/Reflection/issues/71)|[聪明人是如何思考的](https://github.com/lietoumai/Reflection/issues/257)|[批判性思维](https://github.com/lietoumai/Reflection/issues/257)|[权衡](https://github.com/lietoumai/Reflection/issues/374)|[改变：问题形成和解决的原则](https://github.com/lietoumai/Reflection/issues/379)|[批判性思维和创造性思维](https://github.com/lietoumai/Reflection/issues/438)|
 | ------ | ------ |------ |------ |------ |------ |------ |
 
 ### 咨询相关
