@@ -17,8 +17,8 @@
 
 ### 思维
 
-|[系统之美](https://github.com/lietoumai/Reflection/issues/128)| [程序员思维训练](https://github.com/lietoumai/Reflection/issues/71)|[聪明人是如何思考的](https://github.com/lietoumai/Reflection/issues/257)|[批判性思维](https://github.com/lietoumai/Reflection/issues/257)|[权衡](https://github.com/lietoumai/Reflection/issues/374)|[改变：问题形成和解决的原则](https://github.com/lietoumai/Reflection/issues/379)|
-| ------ | ------ |------ |------ |------ |------ |
+|[系统之美](https://github.com/lietoumai/Reflection/issues/128)| [程序员思维训练](https://github.com/lietoumai/Reflection/issues/71)|[聪明人是如何思考的](https://github.com/lietoumai/Reflection/issues/257)|[批判性思维](https://github.com/lietoumai/Reflection/issues/257)|[权衡](https://github.com/lietoumai/Reflection/issues/374)|[改变：问题形成和解决的原则](https://github.com/lietoumai/Reflection/issues/379)|[批判性思维和创造性思维](https://github.com/lietoumai/Reflection/issues/379)|
+| ------ | ------ |------ |------ |------ |------ |------ |
 
 ### 咨询相关
 |[值得信赖的顾问](https://github.com/lietoumai/Reflection/issues/194)|[咨询的奥秘](https://github.com/lietoumai/Reflection/issues/215)|[完美咨询](https://github.com/lietoumai/Reflection/issues/220)|[金字塔原理](https://github.com/lietoumai/Reflection/issues/246)|[事实](https://github.com/lietoumai/Reflection/issues/332)|[不确定世界的理性选择](https://github.com/lietoumai/Reflection/issues/341)|[决策思维](https://github.com/lietoumai/Reflection/issues/347)|[决策的艺术](https://github.com/lietoumai/Reflection/issues/354)|[斯坦福商业决策课](https://github.com/lietoumai/Reflection/issues/354)|[Decision making in action](https://github.com/lietoumai/Reflection/issues/354)|
