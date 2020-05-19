@@ -37,7 +37,7 @@
 | ------ |------ |
 
 ### 法律
-|[劳动合同法](https://github.com/lietoumai/Reflection/issues/353)|
+|[劳动合同法](https://github.com/lietoumai/Reflection/issues/536)|
 | ------ |
 
 ### 兴趣
