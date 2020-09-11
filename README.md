@@ -28,7 +28,7 @@
 |[运动改造大脑](https://github.com/lietoumai/Reflection/issues/249)|[另一种选择](https://github.com/lietoumai/Reflection/issues/305)|[向前一步](https://github.com/lietoumai/Reflection/issues/310)|[成功、动机与目标](https://github.com/lietoumai/Reflection/issues/310)|[一生的计划](https://github.com/lietoumai/Reflection/issues/369)|[有目标的人生](https://github.com/lietoumai/Reflection/issues/369)|[亲密关系](https://github.com/lietoumai/Reflection/issues/394)|[非暴力沟通](https://github.com/lietoumai/Reflection/issues/396)|[象与骑象人](https://github.com/lietoumai/Reflection/issues/407)|
 | ------ |------ |------ |------ |------ |------ |------ |------ |------ |
 
-|[动机与人格](https://github.com/lietoumai/Reflection/issues/536)|
+|[动机与人格](https://github.com/lietoumai/Reflection/issues/637)|
 | ------ |
 
 ### 经济
