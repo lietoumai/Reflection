@@ -44,7 +44,7 @@
 | ------ |
 
 ### 兴趣
-|[手把手教你玩脱口秀](https://github.com/lietoumai/Reflection/issues/295)||[周易](https://github.com/lietoumai/Reflection/issues/295)|
+|[手把手教你玩脱口秀](https://github.com/lietoumai/Reflection/issues/295)|[周易](https://github.com/lietoumai/Reflection/issues/794)|
 | ------ |------ |
 
 ### 心灵
