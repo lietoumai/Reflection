@@ -44,8 +44,8 @@
 | ------ |
 
 ### 兴趣
-|[手把手教你玩脱口秀](https://github.com/lietoumai/Reflection/issues/295)|
-| ------ |
+|[手把手教你玩脱口秀](https://github.com/lietoumai/Reflection/issues/295)||[周易](https://github.com/lietoumai/Reflection/issues/295)|
+| ------ |------ |
 
 ### 心灵
 |[禅者的初心](https://github.com/lietoumai/Reflection/issues/413)|[The Surrender Experiment](https://github.com/lietoumai/Reflection/issues/477)|[艺术：让人成为人](https://github.com/lietoumai/Reflection/issues/477)|[正念](https://github.com/lietoumai/Reflection/issues/521)|[依靠自我](https://github.com/lietoumai/Reflection/issues/521)|
