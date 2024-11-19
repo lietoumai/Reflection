@@ -52,7 +52,7 @@
 | ------ |------ |------ |------ |------ |
 
 ### 英语
-|[101 ways to be a better retail manager](https://github.com/lietoumai/Reflection/issues/536)|
+|[101 ways to be a better retail manager](https://github.com/lietoumai/Reflection/issues/792)|
 | ------ |
 
 ### 阅后无感
